@@ -7,11 +7,11 @@ Simple Fernet encyrptor and decryptor using Python
 
 # usage 
 
- - To encrypt: python3 encryptor.py
+  -> To encrypt: python3 encryptor.py
                enter file name > "filename.txt"
                {Copy the key from ' to '}
                
-  - To decrypt: python3 decryptor.py
+  -> To decrypt: python3 decryptor.py
                 enter file name to decrypt > encrypted_file.txt
                 provide key to decrypt > [the key that was previously generated]
         
